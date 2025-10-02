@@ -1,4 +1,10 @@
-## Hi there 👋
+### He/Him - Darkhan Iliyas 👋
+
+## About me
+Frontend Developer with 4 years of commercial experience in high-stakes B2B fintech. Contributed to bank-wide frontend
+project templates, developer of the corporate UI Kit. Act as maintainer for 6 repositories of Foreign Economic Activities
+apps, doing code review and onboarding new developers. Delivered Kazakhstan’s first online FX forward, drove 67×
+FX-volume growth and cut SWIFT failures from 0.97% to 0%. English C1
 
 <!--
 **drakeaifoce/drakeaifoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
