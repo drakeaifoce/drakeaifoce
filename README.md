@@ -1,4 +1,4 @@
-### He/Him - Darkhan Iliyas 👋
+# Darkhan Iliyas 👋
 
 ## About me
 Frontend Developer with 4 years of commercial experience in high-stakes B2B fintech. Contributed to bank-wide frontend
